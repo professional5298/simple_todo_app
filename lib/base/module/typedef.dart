@@ -1,0 +1,1 @@
+typedef NextAction = Function(dynamic);
